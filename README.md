@@ -13,8 +13,6 @@
 
 - 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-arafathhossain.vercel.app'>Portfolio</a>
 
-- 💬 Ask me about **react,javascript,html**
-
 - 📫 You can reach me through my official <a target="_blank" href='mailto:arafatrahat94@gmail.com'>Email</a>
 
 
