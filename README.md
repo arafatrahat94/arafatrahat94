@@ -9,15 +9,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
-- 🔭 I’m currently working on [Chatify-Social-Media-WebApp](https://github.com/arafatrahat94/chatifyv)
+- 📄 Know about me from my <a target="_blank" href="">Resume</a>
 
-- 🌱 I’m currently learning **Next Js,Web Socket**
+- 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-arafathhossain.vercel.app'>Portfolio</a>
 
 - 💬 Ask me about **react,javascript,html**
 
-- 📫 How to reach me **arafatrahat94@gmail.com**
+- 📫 You can reach me through my official <a target="_blank" href='mailto:arafatrahat94@gmail.com'>Email</a>
 
-- ⚡ Fun fact **I am funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,8 +46,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatrahat94&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=arafatrahat94&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatrahat94&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=380 src="https://github-readme-stats-salesp07.vercel.app/api?username=arafatrahat94&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arafatrahat94&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
