@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
-- 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1dug7Nvb8kHsgLJDnKtiM2BJ7U_pHyaAR/view?usp=sharing">Resume</a>
+- 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1OZ9ghI7LyR_qCGz8PrXtbzXq90WFs016/view?usp=sharing">Resume</a>
 
 - 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-arafathhossain.vercel.app'>Portfolio</a>
 
