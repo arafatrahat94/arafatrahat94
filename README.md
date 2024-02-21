@@ -40,7 +40,7 @@
 <br/>
 
 
-[![arafatrahat94's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatrahat94&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![arafatrahat94's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatrahat94&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/arafatrahat94/github-readme-activity-graph)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
