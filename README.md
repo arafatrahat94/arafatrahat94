@@ -2,53 +2,114 @@
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafath+Hossain;" />
-</h1>
+<p align="center">
+  <a href="https://www.rhbabu.dev" target="_blank">
+    <img width="120rem" height="120rem" src="./images/Black White Simple Monochrome Initial Name Logo (1).png">
+  </a>
+</p>
 
 
+I'm a Software Developer based in Bangladesh.
 
-<h3 align="center">A passionate Mern Stack Developer From Bangladesh.</h3><br/><br/>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+Self-driven, focused, and dedicated Web Developer. I am passionate about programming, developing new products, and exploring new technologies. Well-versed in modern web technologies and version control systems. Slow-paced learner, a good team player, and committed to achieving the goal. Determined to deliver quality with an emphasis on excellence.
 
+<br />
 
-- 📄 Know about me from my <a target="_blank" href="https://drive.google.com/file/d/1OZ9ghI7LyR_qCGz8PrXtbzXq90WFs016/view?usp=sharing">Resume</a>
+## 🚀 <b>TECH STACK</b>
 
-- 👨‍💻 Some of my latest projects are showcased in my <a target="_blank" href='https://portfolio-arafathhossain.vercel.app'>Portfolio</a>
+<details open>
+    <summary>
+        <b>Languages</b>
+    </summary>
 
-- 📫 You can reach me through my official <a target="_blank" href='mailto:arafatrahat94@gmail.com'>Email</a>
+-   <small>JavaScript (ES6+)</small>
+    <br/>
+</details>
 
+<details open>
+    <summary>
+        <b>Front End</b>
+    </summary>
 
+-   <small>HTML5</small>
+    <br/>
+-   <small>CSS3</small>
+    <br/>
+-   <small>React JS</small>
+    <br/>
+-   <small>Next JS</small>
+    <br/>
+-   <small>Tailwind CSS</small>
+</details>
 
-<h3 align="left">Connect with me:</h3>
+<details open>
+    <summary>
+        <b>Back End</b>
+    </summary>
 
-<p align="left">
-<a href="https://twitter.com/arafatrahat94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafatrahat94" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/MdArafathHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafath rahat" height="30" width="40" /></a>
-<a href="https://fb.com/md.arafathhossainrahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arafathhossainrahat" height="30" width="40" /></a>
-<a href="https://instagram.com/md.arafathhossainrahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.arafathhossainrahat" height="30" width="40" /></a>
-    <a href="https://wa.me/+8801980389400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="md.arafathhossainrahat" height="30" width="40" /></a>
-</p><br/><br/>
-<br/><br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+-   <small>Node JS</small>
+    <br/>
+-   <small>Express JS</small>
+</details>
+
+<details open>
+    <summary>
+        <b>Database</b>
+    </summary>
+
+-   <small>MongoDB</small>
+</details>
+
+<details open>
+    <summary>
+        <b>User Management</b>
+    </summary>
+
+-   <small>Firebase Auth</small>
+    <br/>
+-   <small>JWT</small>
+</details>
+
+<details open>
+    <summary>
+        <b>JavaScript Components</b>
+    </summary>
+
+-   <small>React Router</small>
+</details>
+
+<details open>
+    <summary>
+        <b>Version Control</b>
+    </summary>
+
+-   <small>Git</small>
+    <br/>
+-   <small>GitHub</small>
+</details>
+
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
-</div>
-
-<br/>
-
 
 [![arafatrahat94's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatrahat94&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/arafatrahat94/github-readme-activity-graph)
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatrahat94&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=380 src="https://github-readme-stats-salesp07.vercel.app/api?username=arafatrahat94&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arafatrahat94&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
+## 🧊 <b>PROJECTS</b>
+
+|     | NAME                                           | GITHUB <small>[CLIENT]</small>                                          | GITHUB <small>[SERVER]</small>                                          | TYPE       | COLLABORATION |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- | ------------- |
+| 1   | [FoodHut](https://foodhut-7556c.web.app/) | [food-hut-client](https://github.com/arafatrahat94/food-hut) | [foodhut-server](https://github.com/arafatrahat94/foodhut-server) | Full-Stack | Solo          |
+| 2   | [Doc House](https://doc-house-xi.vercel.app/)     | [doc-house-client](https://github.com/arafatrahat94/doc-house)       | [doc-house-server]()       | Full-Stack | Solo          |
+
+<br/>
+## 🗨️ <b>CONTACT</b>
+
+[<b>Email</b>](mailto:arafatrahat94@gmail.com) <b>|</b> [<b>LinkedIn</b>](https://www.linkedin.com/in/MdArafathHossain) <b>|</b> [<b>Facebook</b>](https://fb.com/md.arafathhossainrahat) <b>|</b> [<b>Instagram</b>](https://www.instagram.com/md.arafathhossainrahat) <b>|</b> [<b>WHatsApp</b>](https://wa.me/+8801980389400) <b>|</b> [<b>Resume</b>](https://arafathhossain.vercel.app/Resume)
+
+<br/>
+
+## 🌐 <b>PORTFOLIO</b>
+
+[<b>ArafatHossain.app</b>](https://arafathhossain.vercel.app/)
+
+<br/>
