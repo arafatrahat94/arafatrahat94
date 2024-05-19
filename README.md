@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.rhbabu.dev" target="_blank">
-    <img width="120rem" height="120rem" src="./images/Black White Simple Monochrome Initial Name Logo (1).png">
+    <img width="60%" height="60%" src="./images/20240519_125140.png">
   </a>
 </p>
 
