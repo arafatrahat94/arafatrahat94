@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.rhbabu.dev" target="_blank">
-    <img width="60%" height="60%" src="./images/20240519_125140.png">
+    <img width="80%" height="80%" src="./images/20240520_012300.png">
   </a>
 </p>
 
